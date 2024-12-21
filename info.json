@@ -1,12 +1,10 @@
 
 {
-  "name": "Barrel-Size",
-  "version": "1.0.3",
-  "title": "Barrel Size",
-  "author": "Loren1350",
-  "contact": "Schmendrick on the Factorio Forums",
-  "homepage": "",
+  "name": "Barrel-Size-SA",
+  "version": "2.0.0",
+  "title": "Barrel Size (SA Update)",
+  "author": "ezonius, original by Schmendrick",
   "description": "Customize the fluid capacity of barrels.",
-  "dependencies": ["base"],
-  "factorio_version": "1.1"
+  "dependencies": ["base", "(?) PressurizedBarrels", "(?) more-barrels"],
+  "factorio_version": "2.0"
 }
