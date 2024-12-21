@@ -1,0 +1,1 @@
+data.raw.item["empty-barrel"].stack_size=settings.startup["barrel-size-stack"].value
