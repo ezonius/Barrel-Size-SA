@@ -6,5 +6,5 @@
   "author": "ezonius, original by Schmendrick",
   "description": "Customize the fluid capacity of barrels.",
   "dependencies": ["base", "(?) PressurizedBarrels", "(?) more-barrels"],
-  "factorio_version": "2.0"
+  "factorio_version": "2.1"
 }
