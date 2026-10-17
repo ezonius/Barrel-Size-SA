@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+Date: 2026-10-17
+  Changes:
+    - Updated for Factorio 2.1 (Space Age).
+    - Settings are now startup settings; capacity and fill time additionally apply to recipes from PressurizedBarrels and more-barrels when installed.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2024-12-01
+  Changes:
+    - First change
+---------------------------------------------------------------------------------------------------
