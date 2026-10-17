@@ -6,7 +6,9 @@ Date: 2026-10-17
     - Settings are now startup settings; capacity and fill time additionally apply to recipes from PressurizedBarrels and more-barrels when installed.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: 2024-12-01
-  Changes:
-    - First change
+Date: 2024-12-21
+  Features:
+    - Startup settings to configure barrel stack size and barrel fluid capacity (vanilla defaults 10 and 50).
+    - Fill-barrel and empty-barrel recipes consume/return the configured fluid amount and use a configurable
+      crafting time instead of the vanilla 0.5 seconds.
 ---------------------------------------------------------------------------------------------------
